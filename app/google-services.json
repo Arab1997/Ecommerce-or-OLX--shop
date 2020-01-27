@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "173274704063",
+    "firebase_url": "https://mupanda-45140.firebaseio.com",
+    "project_id": "mupanda-45140",
+    "storage_bucket": "mupanda-45140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173274704063:android:f7a898313ac7b927",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173274704063-48tirm69nn16h96bbvrd8621t8b6llha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "331a258c7723c47bd815c55b5d646437da9bd4f0"
+          }
+        },
+        {
+          "client_id": "173274704063-vv507g4jlo7v6cudq9kgj2av89icn6pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51BFIm_qK3G4bgcgirIYQBTjfMH5ITic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173274704063-vv507g4jlo7v6cudq9kgj2av89icn6pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173274704063:android:e5cf1b6e45525b3c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173274704063-5d3c2r00bb9jdkf7hk8s4h0qqe5nb2pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerceshop",
+            "certificate_hash": "331a258c7723c47bd815c55b5d646437da9bd4f0"
+          }
+        },
+        {
+          "client_id": "173274704063-vv507g4jlo7v6cudq9kgj2av89icn6pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51BFIm_qK3G4bgcgirIYQBTjfMH5ITic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173274704063-vv507g4jlo7v6cudq9kgj2av89icn6pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173274704063:android:cf9e49f64625c1c5",
+        "android_client_info": {
+          "package_name": "com.example.mupanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173274704063-vv507g4jlo7v6cudq9kgj2av89icn6pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51BFIm_qK3G4bgcgirIYQBTjfMH5ITic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173274704063-vv507g4jlo7v6cudq9kgj2av89icn6pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
